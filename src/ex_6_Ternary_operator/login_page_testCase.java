@@ -4,6 +4,6 @@ public class login_page_testCase {
     public static void main(String[] args) {
 
         System.out.println("login test case");
-        System.out.println("Updated the login test case");
+
     }
 }
